@@ -1,4 +1,4 @@
-with open("aoc_2.txt") as file:
+with open("inputs/aoc_2.txt") as file:
     lines = file.read().splitlines()
     
 def is_safe(level):

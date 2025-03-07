@@ -1,4 +1,4 @@
-with open("aoc_1.txt") as file: 
+with open("inputs/aoc_1.txt") as file: 
     data = file.read().splitlines()
 
 list_1 = []
